@@ -2532,6 +2532,22 @@
 			width: 6.25em;
 		}
 
+		#header .button {
+			border-color: rgba(255, 255, 255, 0.8) !important;
+			color: #ffffff !important;
+		}
+
+		#header .button:hover {
+			border-color: #49bf9d !important;
+			color: #49bf9d !important;
+		}
+
+		#hover .button:active {
+			background-color: rgba(73, 191, 157, 0.1) !important;
+			border-color: #49bf9d !important;
+			color: #49bf9d !important;
+		}
+
 /* Footer */
 
 	#footer .icons {
